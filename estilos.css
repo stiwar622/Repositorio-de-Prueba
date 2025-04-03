@@ -1,0 +1,21 @@
+h1{
+
+    background-color: brown;
+    font-size: 20px;
+    margin: 100px;
+    padding: 50px;
+}
+
+#Pinocho{
+    background-color: blue;
+    font-size: 20px;
+    margin: 100px;
+    padding: 50px;
+}
+
+.Petro{
+    background-color: yellow;
+    font-size: 10px;
+    margin: 100px;
+    padding: 50px;
+    }
